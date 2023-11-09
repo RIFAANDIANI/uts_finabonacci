@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloAppTI22A4</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Bilangan Fibonacci</string>
+    <string name="button_label_finish">Back</string>
+    <string name="enter_fibonacci_limit">Masukan limit angka</string>
+    <string name="maximum_fibonacci">Enter Limit</string>
+</resources>
